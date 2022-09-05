@@ -1,6 +1,6 @@
 # Why is my printer offline ?
 
-[![Why is my printer offline](red.png)](https://computersolve.com/why-is-my-printer-offline/)
+[![Why is my printer offline](red.png)](https://icncomputer.com/why-is-my-printer-offline/)
 
 One of the most frequently occurring problem is **‘Why is my printer offline‘**. Therefore, in this writeup we have explained the causes for this problem along with its troubleshooting steps.
 
